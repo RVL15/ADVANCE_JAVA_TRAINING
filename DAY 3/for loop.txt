@@ -1,0 +1,15 @@
+//for(i=initialization;test condition;i++/i--)
+import java.util.*;
+class For
+{
+	public static void main(String args[])
+ {
+	int i;
+	for(i=1;i<=50;i++)
+	{
+	System.out.println("Hello World")
+
+	}
+	
+  }
+}
